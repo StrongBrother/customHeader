@@ -4,6 +4,7 @@
 兼容安卓、ios、各种刘海屏。
 
 使用说明：
+
 1、顶部高度计算方法在app.js里。
 
 2、图标跳转的方法，在customHeader组件的index.js里，可以自行修改链接，默认跳转方法wx.navigateTo方法。
