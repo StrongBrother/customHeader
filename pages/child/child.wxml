@@ -1,0 +1,3 @@
+<!--pages/child/child.wxml-->
+
+<customHeader backHomeFlag customTitle="子页"></customHeader>

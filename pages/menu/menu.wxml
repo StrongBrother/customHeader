@@ -1,0 +1,3 @@
+<!--pages/menu/menu.wxml-->
+
+<customHeader backHomeFlag customTitle="菜单页"></customHeader>

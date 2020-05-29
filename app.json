@@ -1,0 +1,15 @@
+{
+    "pages": [
+        "pages/index/index",
+        "pages/child/child",
+        "pages/menu/menu"
+    ],
+    "window": {
+        "backgroundTextStyle": "light",
+        "navigationBarBackgroundColor": "#fff",
+        "navigationBarTitleText": "自定义顶部",
+        "navigationBarTextStyle": "black",
+        "navigationStyle": "custom"
+    },
+    "sitemapLocation": "sitemap.json"
+}

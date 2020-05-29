@@ -1,0 +1,5 @@
+{
+  "usingComponents": {
+      "customHeader": "/components/customHeader/index"
+  }
+}

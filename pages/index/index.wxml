@@ -1,0 +1,8 @@
+<!--pages/index/index.wxml-->
+
+<!-- 自定义顶部 -->
+<customHeader menuFlag customTitle="首页"></customHeader>
+
+<view class="url">
+	<navigator hover-class="none" url="../child/child">跳到子页</navigator>
+</view>
