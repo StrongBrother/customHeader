@@ -28,7 +28,7 @@
 	"compileType": "miniprogram",
 	"libVersion": "2.7.7",
 	"appid": "wx969d1b87e02ccc91",
-	"projectname": "%E5%8C%BB%E7%96%97%E5%95%86%E5%9F%8E",
+	"projectname": "微信小程序自定义顶部",
 	"debugOptions": {
 		"hidedInDevtools": []
 	},
