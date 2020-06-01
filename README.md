@@ -4,6 +4,7 @@
 兼容安卓、ios、各种刘海屏。
 
 使用说明：
+
 1、在app.json内一定要设置 "navigationStyle": "custom"
 
 2、顶部高度计算方法在app.js里。
